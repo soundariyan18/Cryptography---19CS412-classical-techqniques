@@ -2,10 +2,9 @@
 # EXP 1 Caeser Cipher
 
 Caeser Cipher using with different key values
-AIM:
-
+## AIM:
 To encrypt and decrypt the given message by using Ceaser Cipher encryption algorithm.
-DESIGN STEPS:
+## DESIGN STEPS:
 Step 1:
 
 Design of Caeser Cipher algorithnm
@@ -21,7 +20,7 @@ Step 3:
     Encryption of a letter x by a shift n can be described mathematically as, En(x) = (x + n) mod26
     Decryption is performed similarly, Dn (x)=(x - n) mod26
 ```
-PROGRAM:
+## PROGRAM:
 
 CaearCipher.
 
